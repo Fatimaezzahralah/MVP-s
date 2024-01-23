@@ -1,5 +1,7 @@
 # BeLicious
 
+<img width="944" alt="111" src="https://github.com/Fatimaezzahralah/MVP-s/assets/128908115/26fdfeb3-fbb4-41ac-a7f8-278794ade02d">
+
 ## Introduction
 Welcome to BeLicious, your sanctuary for beauty, bath, and self-care essentials. Explore our curated collection designed to elevate your daily rituals and bring joy to your self-care journey.
 
